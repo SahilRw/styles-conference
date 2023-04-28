@@ -382,6 +382,12 @@ cite, em {
   Speakers
   ========================================
 */
+.teaser img {
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 22px;
+  max-width: 100%
+}
   
 .speaker-info {
   border: 1px solid #dfe2e5;
